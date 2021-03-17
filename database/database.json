@@ -1,0 +1,44 @@
+{
+    "clientes":[
+        {
+            "nombres": "Samuel Andres",
+            "apellidos": "Jackson Five",
+            "correo": "sjackson@gmail.com",
+            "rut": "13942011K" 
+        },
+        {
+            "nombres": "Javier Antonio",
+            "apellidos": "Paine Lopez",
+            "correo": "jpainelopez@gmail.com",
+            "rut": "200467241" 
+        },
+        {
+            "nombres": "Nicolas Eduardo",
+            "apellidos": "Pardo Orellana",
+            "correo": "sjackson@gmail.com",
+            "rut": "192304931" 
+        }
+    ],
+    "cuentas_bancarias":[
+        {
+            "nro_cuenta":"13942011",
+            "rut_cliente":"13942011K",
+            "saldo":350000
+        },
+        {
+            "nro_cuenta":"20046724",
+            "rut_cliente":"200467241",
+            "saldo":30000
+        },
+        {
+            "nro_cuenta":"200467242",
+            "rut_cliente":"200467241",
+            "saldo":40000
+        },
+        {
+            "nro_cuenta":"19230493",
+            "rut_cliente":"192304931",
+            "saldo":150000
+        }
+    ]
+}
